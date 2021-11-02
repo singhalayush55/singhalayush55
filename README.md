@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ### SKILLS:
-PHP | Python | C/C++ | JavaScript | MySql | React Js | Java | R 
+PHP | Python | C/C++ | JavaScript | MySql | Java | R 
