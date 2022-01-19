@@ -6,9 +6,9 @@
 <!--
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on: voiceflow
-- 🌱 I’m currently learning: React Js, Node Js
-- 👯 I’m looking to collaborate on: Web Projects
+- 🔭 I’m currently working on: GPT-3
+- 🌱 I’m currently learning: Django
+- 👯 I’m looking to collaborate on: Web Projects, Machine Learning, Artificial intelligence
 - 📫 How to reach me: singhalayush80@gmail.com
 - 😄 Pronouns: He/Him
 <!--
